@@ -7,17 +7,6 @@
 
 </head>
 <body>
-<!--   header area-->
-    <div class="header_area">
-        <header>
-            <div class="header_left">
-                <a href="#"><img src="img/logo.png" alt="logo"></a>
-            </div>
-            <div class="header_right">
-
-            </div>
-        </header>
-    </div>
 <!--    meanu area-->
     <div class="menu_area">
         <nav>
